@@ -1,0 +1,26 @@
+{
+    "os": "Linux-5.11.0-37-generic-x86_64-with-debian-bullseye-sid",
+    "python": "3.7.11",
+    "heartbeatAt": "2021-10-17T16:45:33.481914",
+    "startedAt": "2021-10-17T16:45:17.275082",
+    "docker": null,
+    "gpu": "GeForce RTX 3060",
+    "gpu_count": 1,
+    "cpu_count": 6,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/home/indika/.local/share/jupyter/runtime/kernel-e774526e-163f-468a-bbdc-d3e4fdabdac6.json"
+    ],
+    "state": "running",
+    "program": "00.ipynb",
+    "root": "/home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/CNN/Intel-Image-Classification-V2",
+    "git": {
+        "remote": "https://github.com/Programmer-RD-AI/Intel-Image-Classification-V2.git",
+        "commit": "2b0ba46f37cc570ee59bb350fb1767cf36ddfe51"
+    },
+    "email": "aigithub@gmail.com",
+    "host": "programmer-rd-ai",
+    "username": "indika",
+    "executable": "/home/indika/anaconda3/bin/python"
+}
